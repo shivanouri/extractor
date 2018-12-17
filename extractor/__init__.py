@@ -1,3 +1,6 @@
+__version__ = 'v0.1.0'
+
+
 class Location:
     def __init__(self, x, y, w, h):
         self.x = x
