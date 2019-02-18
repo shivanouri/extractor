@@ -10,8 +10,9 @@ class Location:
 
 
 class Cell:
-    def __init__(self, image):
+    def __init__(self, image, text=None):
         self.image = image
+        self.text = text
 
     def ocr(self):
         # do ocr on self.image
