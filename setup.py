@@ -17,7 +17,7 @@ setup(
     name="extractor",
     version=package_version,
     author="Shiva Nouri",
-    author_email="shiva@carrene.com",
+    author_email="shb.nouri@gmail.com",
     install_requires=dependencies,
     include_package_data=True,
     entry_points={
